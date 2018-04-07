@@ -32,7 +32,7 @@ public class DirCatch implements ImageCatch{
 
 public class Test {
 
-    //ÒÀÀµÓÚ³éÏó£¬¶àÌ¬£¡
+    //ä¾èµ–äºæŠ½è±¡ï¼Œå¤šæ€ï¼
     ImageCatch imageCatch = new MemmeryCatch();
 
 //    ImageCatch imageCatch = new DirCatch();
