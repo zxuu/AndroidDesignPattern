@@ -17,6 +17,5 @@ public class Test {
 
 }
 
-#输出
+输出
 Computer info :computer [mBoard=inter, mDisplay=dell, mOsMac Os X 10.10]
- [Markdown](https://www.jianshu.com/p/e2a2fe3555b9)
